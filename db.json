@@ -1,12 +1,14 @@
 {
   "usersRole":  [
     {
+      "id": 1,
       "RoleId": 1,
       "RoleName": "Financial Analyst",
       "CreatedBy": "CreatedByUser",
       "UpdatedBy": "UpdatedByuser"
     },
     {
+       "id": 2,
       "RoleId": 2,
       "RoleName": "Financial Manager",
       "CreatedBy": "CreatedByUser",
