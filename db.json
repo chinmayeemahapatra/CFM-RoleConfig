@@ -1,4 +1,5 @@
-[
+{
+  "usersRole":  [
     {
       "RoleId": 1,
       "RoleName": "Financial Analyst",
@@ -12,3 +13,4 @@
       "UpdatedBy": "UpdatedByuser"
     }
   ]
+}
